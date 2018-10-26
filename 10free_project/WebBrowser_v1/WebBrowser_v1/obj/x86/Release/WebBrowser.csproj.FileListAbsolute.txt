@@ -1,3 +1,0 @@
-/home/sadik/Projects/WebBrowser/WebBrowser/bin/Release/WebBrowser.exe
-/home/sadik/Projects/WebBrowser/WebBrowser/obj/x86/Release/WebBrowser.csproj.CoreCompileInputs.cache
-/home/sadik/Projects/WebBrowser/WebBrowser/obj/x86/Release/WebBrowser.exe

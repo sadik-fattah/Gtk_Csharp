@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6B918930-0008-4701-A80E-D0D904891B82}|Default">
+  <MonoDevelop.Ide.ItemProperties.webBrowser__v1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="webBrowser_v1/Program.cs">
+    <Files>
+      <File FileName="webBrowser_v1/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
