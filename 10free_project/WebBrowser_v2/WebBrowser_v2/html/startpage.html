@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="./startpage.css" type="text/css" />
+    <script>
+        
+        function update()
+        {
+            var searchEngine = 'http://google.com'
+
+            document.title ='GuercifZone';
+            document.getElementById('headerTitle').innerHTML = 'Browser v2 GuercifZone';
+            document.getElementById('searchButton').value = 'Search!';
+            document.getElementById('footer').innerHTML = 'Search results provided by' + ' '
+                                                          + 'Sadik' + ' | ' + '<a href="http://www.guercifzone.com/">'
+                                                          + 'About Guercif Zone'+ '</a>';
+           document.getElementById('lineEdit').placeholder = 'google';
+        }
+
+        function formSubmitted()
+        {
+            var string = lineEdit.value;
+
+            if (string.length == 0)
+                return;
+
+            var url = 'http://www.google.com/#sclient=psy&source=hp&q='+string;
+            window.location.href = url;
+        }
+       
+    </script>
+</head>
+<body onload="document.forms[0].lineEdit.select(); update();">
+    <div id="header">
+        <h1 id="headerTitle"></h1>
+        <img src="./guercifzone.png" />
+    </div>
+    <div id="search">
+        <form action="javascript:formSubmitted();">
+            <fieldset>
+                <input id="lineEdit" name="lineEdit" type="text" />
+                <input id="searchButton" type="submit" />
+            </fieldset>
+        </form>
+    </div>
+    <div id="footer"></div>
+</body>
+</html>
