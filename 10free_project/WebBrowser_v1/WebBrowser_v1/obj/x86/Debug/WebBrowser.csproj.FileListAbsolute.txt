@@ -1,0 +1,12 @@
+/home/sadik/Projects/WebBrowser/WebBrowser/obj/x86/Debug/WebBrowser.csprojAssemblyReference.cache
+/home/sadik/Projects/WebBrowser/WebBrowser/obj/x86/Debug/WebBrowser.csproj.CoreCompileInputs.cache
+/home/sadik/Projects/WebBrowser/WebBrowser/bin/Debug/WebBrowser.exe
+/home/sadik/Projects/WebBrowser/WebBrowser/bin/Debug/WebBrowser.pdb
+/home/sadik/Projects/WebBrowser/WebBrowser/obj/x86/Debug/WebBrowser.exe
+/home/sadik/Projects/WebBrowser/WebBrowser/obj/x86/Debug/WebBrowser.pdb
+/home/sadik/Documents/Gtk_Csharp/10free_project/WebBrowser/WebBrowser/bin/Debug/WebBrowser.exe
+/home/sadik/Documents/Gtk_Csharp/10free_project/WebBrowser/WebBrowser/bin/Debug/WebBrowser.pdb
+/home/sadik/Documents/Gtk_Csharp/10free_project/WebBrowser/WebBrowser/obj/x86/Debug/WebBrowser.csprojAssemblyReference.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/WebBrowser/WebBrowser/obj/x86/Debug/WebBrowser.csproj.CoreCompileInputs.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/WebBrowser/WebBrowser/obj/x86/Debug/WebBrowser.exe
+/home/sadik/Documents/Gtk_Csharp/10free_project/WebBrowser/WebBrowser/obj/x86/Debug/WebBrowser.pdb
