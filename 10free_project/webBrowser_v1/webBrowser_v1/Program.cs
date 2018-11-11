@@ -22,7 +22,7 @@ namespace WebBrowser
     {
         const string APP_NAME = "GuercifZone";
 
-        private string url = "http://www.guercifzone.com/";
+        private string url = "http://www.guercifzone.com/build ";
 
         private Gtk.VBox vbox = null;
         private Gtk.Toolbar toolbar = null;

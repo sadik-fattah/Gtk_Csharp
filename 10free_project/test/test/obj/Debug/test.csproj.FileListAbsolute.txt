@@ -1,0 +1,6 @@
+/home/sadik/Documents/Gtk_Csharp/10free_project/test/test/bin/test.dll
+/home/sadik/Documents/Gtk_Csharp/10free_project/test/test/bin/test.pdb
+/home/sadik/Documents/Gtk_Csharp/10free_project/test/test/obj/Debug/test.csprojAssemblyReference.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/test/test/obj/Debug/test.csproj.CoreCompileInputs.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/test/test/obj/Debug/test.dll
+/home/sadik/Documents/Gtk_Csharp/10free_project/test/test/obj/Debug/test.pdb

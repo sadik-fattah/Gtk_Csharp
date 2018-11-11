@@ -1,0 +1,1 @@
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/Webcam/obj/Release/Webcam.csproj.CoreCompileInputs.cache

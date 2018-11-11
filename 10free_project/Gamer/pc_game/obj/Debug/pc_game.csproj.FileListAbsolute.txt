@@ -1,0 +1,6 @@
+/home/sadik/Documents/Gtk_Csharp/10free_project/Gamer/pc_game/bin/pc_game.dll
+/home/sadik/Documents/Gtk_Csharp/10free_project/Gamer/pc_game/bin/pc_game.pdb
+/home/sadik/Documents/Gtk_Csharp/10free_project/Gamer/pc_game/obj/Debug/pc_game.csprojAssemblyReference.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/Gamer/pc_game/obj/Debug/pc_game.csproj.CoreCompileInputs.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/Gamer/pc_game/obj/Debug/pc_game.dll
+/home/sadik/Documents/Gtk_Csharp/10free_project/Gamer/pc_game/obj/Debug/pc_game.pdb

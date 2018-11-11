@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2939A829-881C-4928-8F5E-999EB5CB9F53}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tryo/Default.aspx.cs">
+    <Files>
+      <File FileName="tryo/Default.aspx.cs" Line="48" Column="2" />
+      <File FileName="tryo/Default.aspx" Line="1" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.tryo PreferredExecutionTarget="/usr/bin/google-chrome-stable" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FED90615-CE14-45FA-9975-EBC67B71BCA4}</ProjectGuid>
+    <ProjectTypeGuids>{349C5851-65DF-11DA-9384-00065B846F21};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>pc_game</RootNamespace>
+    <AssemblyName>pc_game</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="Mono.Data.Sqlite" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Global.asax" />
+    <Content Include="Web.config" />
+    <Content Include="Default.aspx" />
+    <Content Include="image\Afterfall_Reconquest.jpg" />
+    <Content Include="image\Aliens_Colonial_Marines-FLT.jpg" />
+    <Content Include="image\Alpha_Prime.jpg" />
+    <Content Include="image\AntiKiller.jpg" />
+    <Content Include="image\A-Second_Before_Us.jpg" />
+    <Content Include="image\Battle_Royale.jpg" />
+    <Content Include="image\Battle_Stricke_Shadow_of_Stalingrad.jpg" />
+    <Content Include="image\Chernobyl-Terrorist-Attack.jpg" />
+    <Content Include="image\Cold_Fear.jpg" />
+    <Content Include="image\CRIMSON.METAL-PLAZA.jpg" />
+    <Content Include="image\crimson_earth.jpg" />
+    <Content Include="image\Dead.by.Daylight.jpg" />
+    <Content Include="image\DeadFallAdventures.jpg" />
+    <Content Include="image\Dead_Inside.jpg" />
+    <Content Include="image\deadpool.jpg" />
+    <Content Include="image\DinoDD.jpg" />
+    <Content Include="image\Dono_Survival.jpg" />
+    <Content Include="image\Doom3.jpg" />
+    <Content Include="image\Driver3.jpg" />
+    <Content Include="image\F.E.A.R. PLATINUM – GOG.jpg" />
+    <Content Include="image\halfe-Life2_episode2.jpg" />
+    <Content Include="image\Half-Life-2-Episode-One.jpg" />
+    <Content Include="image\helium.jpg" />
+    <Content Include="image\Hold-Your-Own.jpg" />
+    <Content Include="image\Homefront.jpg" />
+    <Content Include="image\Inversion.jpg" />
+    <Content Include="image\Iron_Man.jpg" />
+    <Content Include="image\Iron_Soul.jpg" />
+    <Content Include="image\lost-via-domus.jpg" />
+    <Content Include="image\made-man.jpg" />
+    <Content Include="image\Mafia-pc-game.jpg" />
+    <Content Include="image\MARS_WAR_LOGS.jpg" />
+    <Content Include="image\Nosferatu.jpg" />
+    <Content Include="image\Operation_Flashpoint_2.jpg" />
+    <Content Include="image\Plaza_pain_train2.jpg" />
+    <Content Include="image\RedLine_Quarantine.jpg" />
+    <Content Include="image\red-ocean.jpg" />
+    <Content Include="image\scar.jpg" />
+    <Content Include="image\Sky_Noon.jpg" />
+    <Content Include="image\Sniper_Elite_Nazi_Zombie_Army.jpg" />
+    <Content Include="image\soldier_of_fortune.jpg" />
+    <Content Include="image\stranded-deep-alpha.jpg" />
+    <Content Include="image\Sylvio-Remastered.jpg" />
+    <Content Include="image\the_kreed.jpg" />
+    <Content Include="image\the_wolking_dead.jpg" />
+    <Content Include="image\The_wolking_dead_2.jpg" />
+    <Content Include="image\The_wolking_dead_survival.jpg" />
+    <Content Include="image\Tomcl_ghost_recon.jpg" />
+    <Content Include="image\UberSoldier-II-Crimes-of-Wa2.jpg" />
+    <Content Include="image\Undertown.jpg" />
+    <Content Include="image\UNLOVED.jpg" />
+    <Content Include="image\wanted_killer.jpg" />
+    <Content Include="image\witch_hunter.jpg" />
+    <Content Include="image\Wrath_of_Angels.jpg" />
+    <Content Include="css\third-party\tables.css" />
+    <Content Include="css\third-party\tables-min.css" />
+    <Content Include="css\third-party\pure.css" />
+    <Content Include="css\third-party\pure-nr.css" />
+    <Content Include="css\third-party\pure-nr-min.css" />
+    <Content Include="css\third-party\pure-min.css" />
+    <Content Include="css\third-party\menus.css" />
+    <Content Include="css\third-party\menus-paginator.css" />
+    <Content Include="css\third-party\menus-paginator-min.css" />
+    <Content Include="css\third-party\menus-nr.css" />
+    <Content Include="css\third-party\menus-nr-min.css" />
+    <Content Include="css\third-party\menus-min.css" />
+    <Content Include="css\third-party\menus-core.css" />
+    <Content Include="css\third-party\menus-core-min.css" />
+    <Content Include="css\third-party\grids.css" />
+    <Content Include="css\third-party\grids-units.css" />
+    <Content Include="css\third-party\grids-units-min.css" />
+    <Content Include="css\third-party\grids-nr.css" />
+    <Content Include="css\third-party\grids-nr-min.css" />
+    <Content Include="css\third-party\grids-min.css" />
+    <Content Include="css\third-party\grids-core.css" />
+    <Content Include="css\third-party\grids-core-min.css" />
+    <Content Include="css\third-party\forms.css" />
+    <Content Include="css\third-party\forms-nr.css" />
+    <Content Include="css\third-party\forms-nr-min.css" />
+    <Content Include="css\third-party\forms-min.css" />
+    <Content Include="css\third-party\buttons.css" />
+    <Content Include="css\third-party\buttons-min.css" />
+    <Content Include="css\third-party\buttons-core.css" />
+    <Content Include="css\third-party\buttons-core-min.css" />
+    <Content Include="css\third-party\base.css" />
+    <Content Include="css\third-party\base-min.css" />
+    <Content Include="css\third-party\base-context.css" />
+    <Content Include="css\third-party\base-context-min.css" />
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="image\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <MonoDevelop>
+      <Properties>
+        <XspParameters Port="8080" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
+      </Properties>
+    </MonoDevelop>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,6 @@
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/tryo/bin/tryo.dll
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/tryo/bin/tryo.pdb
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/tryo/obj/Debug/tryo.csprojAssemblyReference.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/tryo/obj/Debug/tryo.csproj.CoreCompileInputs.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/tryo/obj/Debug/tryo.dll
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/tryo/obj/Debug/tryo.pdb

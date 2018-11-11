@@ -1,0 +1,6 @@
+/home/sadik/Documents/Gtk_Csharp/10free_project/webBrowser_v1/webBrowser_v1/obj/x86/Debug/.NETFramework,Version=v4.7.AssemblyAttribute.cs
+/home/sadik/Documents/Gtk_Csharp/10free_project/webBrowser_v1/webBrowser_v1/obj/x86/Debug/webBrowser_v1.gtk-gui.gui.stetic
+/home/sadik/Documents/Gtk_Csharp/10free_project/webBrowser_v1/webBrowser_v1/bin/Debug/webBrowser_v1.pdb
+/home/sadik/Documents/Gtk_Csharp/10free_project/webBrowser_v1/webBrowser_v1/bin/Debug/webBrowser_v1.exe
+/home/sadik/Documents/Gtk_Csharp/10free_project/webBrowser_v1/webBrowser_v1/obj/x86/Debug/webBrowser_v1.exe
+/home/sadik/Documents/Gtk_Csharp/10free_project/webBrowser_v1/webBrowser_v1/obj/x86/Debug/webBrowser_v1.pdb

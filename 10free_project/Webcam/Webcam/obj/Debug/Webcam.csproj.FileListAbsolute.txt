@@ -1,0 +1,6 @@
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/Webcam/bin/Webcam.dll
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/Webcam/bin/Webcam.pdb
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/Webcam/obj/Debug/Webcam.csprojAssemblyReference.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/Webcam/obj/Debug/Webcam.csproj.CoreCompileInputs.cache
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/Webcam/obj/Debug/Webcam.dll
+/home/sadik/Documents/Gtk_Csharp/10free_project/Webcam/Webcam/obj/Debug/Webcam.pdb
